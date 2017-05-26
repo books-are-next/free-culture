@@ -1,0 +1,22 @@
+bib:
+  type: book
+  title: Free Culture
+  author: Lawrence Lessig
+  year: 2004
+  keywords:
+    - culture
+    - free culture
+    - copyright law
+    - intellectual property
+    - public domain
+    - web
+    - internet
+    - mp3
+    - Napster
+dirs:
+  text: text
+  #bibliography: bib
+  templates: templates
+  assets: assets
+  style: style
+  #scripts: scripts
