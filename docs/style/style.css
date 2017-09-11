@@ -105,7 +105,7 @@ article {
   max-width: 32rem;
   margin: 0 auto; }
   .column img {
-    margin: 0 auto;
+    display: block;
     max-width: 100%; }
     .column img.fullwidth {
       max-width: auto;
@@ -197,9 +197,10 @@ blockquote {
       -webkit-filter: grayscale(0);
       filter: grayscale(0); }
 
-/* nb-seen.js classes */
 .hero {
   background: black; }
+  .hero .column {
+    padding: 2rem 1rem 1rem; }
   .hero h1 {
     display: block;
     color: #ccc;
@@ -211,14 +212,15 @@ blockquote {
     line-height: 1.2; }
   .hero p {
     color: white; }
-  .hero.cover {
-    min-height: 100%; }
-    .hero.cover p {
-      color: #ccc;
-      font-size: 2rem; }
-  .hero .nblogo {
-    width: 33%;
-    margin-left: 0; }
+  .hero.cover h1 {
+    padding: 0;
+    text-transform: uppercase; }
+  .hero.cover p {
+    color: #ccc;
+    font-size: 2rem; }
+    .hero.cover p.subtitle {
+      font-size: 1.5rem;
+      margin-top: 0; }
 
 p, li {
   opacity: 0.7;
@@ -245,6 +247,9 @@ p, li {
   /* background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Opera 11.1 to 12.0 */
   /* background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Firefox 3.6 to 15 */
   /* background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); /* Standard syntax (must be last) */ }
+
+hr {
+  margin: 3rem 0; }
 
 /* nb-nav.js classes */
 nav a {
