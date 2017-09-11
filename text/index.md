@@ -1,6 +1,9 @@
 ---
+template: index
+stats: exclude
 title: "Lawrence Lessig: Free Culture"
 ---
+# Index
 
 - [PREFACE](01-preface.html)
 - [INTRODUCTION](02-introduction.html)
@@ -24,4 +27,6 @@ title: "Lawrence Lessig: Free Culture"
     - [CHAPTER FOURTEEN: Eldred II](06-balances.html#c14)
 - [CONCLUSION](07-conclusion.html)
 - [AFTERWORD](08-afterword.html)
+
+[Alphabetical list of terms](dictionary.html) &middot; [License](license.html)
 

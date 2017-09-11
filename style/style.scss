@@ -20,7 +20,7 @@ article {
 	margin: 0 auto;
 
 	img {
-		margin: 0 auto;
+		display: block;
 		max-width: 100%;
 
 		&.fullwidth {
@@ -161,9 +161,12 @@ blockquote {
 	}
 }
 
-/* nb-seen.js classes */
 .hero {
 	background: black;
+
+	.column {
+	  padding: 2rem 1rem 1rem;
+	}
 
 	h1 {
 		display: block;
@@ -181,17 +184,22 @@ blockquote {
 	}
 
 	&.cover {
-		min-height: 100%;
+		h1 {
+			padding: 0;
+			text-transform: uppercase;
+		}
 
 		p {
 			color: #ccc;
 			font-size: 2rem;
-		}
-	}
 
-	.nblogo {
-		width: 33%;
-		margin-left: 0;
+			&.subtitle {
+				font-size: 1.5rem;
+				margin-top: 0;
+			}
+		}
+
+
 	}
 }
 
@@ -224,6 +232,10 @@ p, li {
 	/* background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Opera 11.1 to 12.0 */
 	/* background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); /* For Firefox 3.6 to 15 */
 	/* background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet); /* Standard syntax (must be last) */
+}
+
+hr {
+	margin: 3rem 0;
 }
 
 

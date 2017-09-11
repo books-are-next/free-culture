@@ -4,10 +4,9 @@
 <body>
 	<div class="hero cover">
 		<div class="column">
-			<p>{{=it.publication.author}}</p>
 			<h1>{{=it.publication.title}}</h1>
-			<img class="nblogo" src="assets/img/nb.png">
-			<!-- <p>{{=it.publication.publisher}}, {{=it.publication.issued}}</p> -->
+			<p class="subtitle">{{=it.publication.subtitle}}</p>
+			<p>{{=it.publication.author}}</p>
 		</div>
 	</div>
 	<div class="column">
@@ -15,10 +14,15 @@
 		
 		<hr>
 		
-		<p>Licencováno k užívání dle poskytnuté licence čtenáři <i>{{=it.publication.args.owner}}</i>.</p>	
+		<p><b>Note:</b> This edition is built upon 
+		<a href="https://github.com/next-book/free-culture">next-book</a> 
+		publishing framework in exploration in exploration of the shape 
+		of a book in a digital environment. Instead of replicating 
+		the paper experience, we try to move forward beyond paper, 
+		embracing the networked digital environment. Learn more at 
+		<a href="https://github.com/next-book/free-culture">its 
+		Github repository</a>.</p>
 	</div>
-	
-	
 	{{#def.scripts}}
 </body>
 </html>
