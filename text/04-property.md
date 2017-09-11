@@ -793,7 +793,7 @@ In _Code and Other Laws of Cyberspace_, I used a simple model to capture this mo
 For any particular right or regulation, this model asks how four different modalities of regulation interact to support or weaken the right or regulation.
 I represented it with this diagram:
 
-![How four different modalities of regulation interact to support or weaken the right or regulation.](assets/01.png)
+![How four different modalities of regulation interact to support or weaken the right or regulation.](assets/01.svg)
 
 At the center of this picture is a regulated dot: the individual or group that is the target of regulation, or the holder of a right.
 (In each case throughout, we can describe this either as regulation or as a right.
@@ -846,7 +846,7 @@ The law might be used to mandate more speed bumps, so as to increase the difficu
 The law might be used to fund ads that stigmatize reckless driving.
 Or the law might be used to require that other laws be more strict—a federal requirement that states decrease the speed limit, for example—so as to decrease the attractiveness of fast driving.
 
-![Law has a special role in affecting the three.](assets/02.png)
+![Law has a special role in affecting the three.](assets/02.svg)
 
 These constraints can thus change, and they can be changed.
 To understand the effective protection of liberty or protection of property at any particular moment, we must track these changes over time.
@@ -861,7 +861,7 @@ This model helps us see why that rallying makes sense.
 
 Let's say this is the picture of copyright's regulation before the Internet:
 
-![Copyright's regulation before the Internet.](assets/01.png)
+![Copyright's regulation before the Internet.](assets/01.svg)
 
 There is balance between law, norms, market, and architecture.
 The law limits the ability to copy and share content, by imposing penalties on those who copy and share content.
@@ -876,7 +876,7 @@ Thus the sense of, and justification for, the warriors' response.
 Technology has changed, the warriors say, and the effect of this change, when ramified through the market and norms, is that a balance of protection for the copyright owners' rights has been lost.
 This is Iraq after the fall of Saddam, but this time no government is justifying the looting that results.
 
-![effective state of anarchy after the Internet.](assets/03.png)
+![effective state of anarchy after the Internet.](assets/03.svg)
 
 Neither this analysis nor the conclusions that follow are new to the warriors.
 Indeed, in a “White Paper” prepared by the Commerce Department (one heavily influenced by the copyright warriors) in 1995, this mix of regulatory modalities had already been identified and the strategy to respond already mapped.
@@ -992,11 +992,11 @@ To begin to understand what they did, we need to put our “copyright” in cont
 Some of these changes come from the law: some in light of changes in technology, and some in light of changes in technology given a particular concentration of market power.
 In terms of our model, we started here:
 
-![Copyright's regulation before the Internet.](assets/01.png)
+![Copyright's regulation before the Internet.](assets/01.svg)
 
 We will end here:
 
-!["Copyright" today.](assets/04.png)
+!["Copyright" today.](assets/04.svg)
 
 Let me explain how.
 
@@ -1171,7 +1171,7 @@ My claim is that the Internet should at least force us to rethink the conditions
 
 We can see this point abstractly by beginning with this largely empty circle.
 
-![All potential uses of a book.](assets/05.png)
+![All potential uses of a book.](assets/05.svg)
 
 Think about a book in real space, and imagine this circle to represent all its potential _uses_.
 Most of these uses are unregulated by copyright law, because the uses don't create a copy.
@@ -1179,7 +1179,7 @@ If you read a book, that act is not regulated by copyright law.
 If you give someone the book, that act is not regulated by copyright law.
 If you resell a book, that act is not regulated (copyright law expressly states that after the first sale of a book, the copyright owner can impose no further conditions on the disposition of the book). If you sleep on the book or use it to hold up a lamp or let your puppy chew it up, those acts are not regulated by copyright law, because those acts do not make a copy.
 
-![Examples of unregulated uses of a book.](assets/06.png)
+![Examples of unregulated uses of a book.](assets/06.svg)
 
 Obviously, however, some uses of a copyrighted book are regulated by copyright law.
 Republishing the book, for example, makes a copy.
@@ -1189,15 +1189,15 @@ It is the paradigmatic use properly regulated by copyright regulation (see first
 
 Finally, there is a tiny sliver of otherwise regulated copying uses that remain unregulated because the law considers these “fair uses.”
 
-![Republishing stands at the core of this circle of possible uses of a copyrighted work.](assets/07.png)
+![Republishing stands at the core of this circle of possible uses of a copyrighted work.](assets/07.svg)
 
 These are uses that themselves involve copying, but which the law treats as unregulated because public policy demands that they remain unregulated.
 You are free to quote from this book, even in a review that is quite negative, without my permission, even though that quoting makes a copy.
 That copy would ordinarily give the copyright owner the exclusive right to say whether the copy is allowed or not, but the law denies the owner any exclusive right over such “fair uses” for public policy (and possibly First Amendment) reasons.
 
-![Unregulated copying considered "fair uses."](assets/08.png)  
+![Unregulated copying considered "fair uses."](assets/08.svg)  
   
-![Uses that before were presumptively unregulated are now presumptively regulated.](assets/09.png)
+![Uses that before were presumptively unregulated are now presumptively regulated.](assets/09.svg)
 
 In real space, then, the possible uses of a book are divided into three sorts: (1) unregulated uses, (2) regulated uses, and (3) regulated uses that are nonetheless deemed “fair” regardless of the copyright owner's views.
 

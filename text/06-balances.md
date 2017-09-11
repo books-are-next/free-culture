@@ -838,7 +838,7 @@ But I can rarely make light of it. We had in our Constitution a commitment to fr
 In the case that I fathered, the Supreme Court effectively renounced that commitment.
 A better lawyer would have made them see differently.
 
-![Tom the Dancing Bug cartoon](assets/18.png)
+![Tom the Dancing Bug cartoon](assets/18.jpg)
 
 <span id="c4"></span>
 
