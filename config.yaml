@@ -1,4 +1,4 @@
-bib:
+about:
   type: book
   title: Free Culture
   author: Lawrence Lessig
@@ -15,8 +15,9 @@ bib:
     - Napster
 dirs:
   text: text
-  #bibliography: bib
+  bibliography: bib
+  dictionary: dictionary
   templates: templates
   assets: assets
   style: style
-  #scripts: scripts
+  scripts: scripts

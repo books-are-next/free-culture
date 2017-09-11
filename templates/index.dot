@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+{{#def.head}}
+<body>
+	<div class="hero cover">
+		<div class="column">
+			<p>{{=it.publication.author}}</p>
+			<h1>{{=it.publication.title}}</h1>
+			<img class="nblogo" src="assets/img/nb.png">
+			<!-- <p>{{=it.publication.publisher}}, {{=it.publication.issued}}</p> -->
+		</div>
+	</div>
+	<div class="column">
+		{{=it.content}}
+		
+		<hr>
+		
+		<p>Licencováno k užívání dle poskytnuté licence čtenáři <i>{{=it.publication.args.owner}}</i>.</p>	
+	</div>
+	
+	
+	{{#def.scripts}}
+</body>
+</html>
