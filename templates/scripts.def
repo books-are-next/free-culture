@@ -3,7 +3,7 @@
 
 <script src="scripts/nb-core.js"></script>
 <script src="scripts/nb-nav.js"></script> 	
-<script src="scripts/nb-splice.js"></script>
+
 <script src="scripts/nb-footnotes.js"></script>
 <script src="scripts/nb-citations.js"></script>
 <script src="scripts/main.js"></script>

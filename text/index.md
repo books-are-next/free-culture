@@ -3,7 +3,7 @@ template: index
 stats: exclude
 title: "Lawrence Lessig: Free Culture"
 ---
-# Index
+## Index
 
 - [PREFACE](01-preface.html)
 - [INTRODUCTION](02-introduction.html)
