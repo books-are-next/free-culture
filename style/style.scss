@@ -29,6 +29,16 @@ article {
 			margin-left: unquote("calc((-100vw + 32rem) / 2)");
 		}
 	}
+
+	table {
+	  border-collapse: collapse;
+
+		td, th {
+			border: 1px solid #aaa;
+			text-align: left;
+			padding: 0.5rem;
+		}
+	}
 }
 
 blockquote {
