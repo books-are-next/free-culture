@@ -1,6 +1,11 @@
 ---
 title: Preface
 ---
+
+*To Eric Eldred—whose work first drew me to this cause, and for whom it continues still.*
+
+***
+
 **At the end** of his review of my first book, _Code: And Other Laws of Cyberspace_, David Pogue, a brilliant writer and author of countless technical and computer-related texts, wrote this:
 
 > Unlike actual law, Internet software has no capacity to punish.

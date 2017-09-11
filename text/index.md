@@ -1,10 +1,8 @@
 ---
-title: Index
+title: "Lawrence Lessig: Free Culture"
 ---
 
-> To Eric Eldred—whose work first drew me to this cause, and for whom it continues still.
-
-- PREFACE  xiii
+- [PREFACE](01-preface.html)
 - [INTRODUCTION](02-introduction.html)
 - [“PIRACY”](03-piracy.html)
     - [CHAPTER ONE: Creators](03-piracy.html#c1)
