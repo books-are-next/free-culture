@@ -103,7 +103,7 @@ function init() {
     nextMobileLink.innerHTML = '&rarr;';
     if (lastPos) {
       nextMobileLink.setAttribute('href', `./${lastPos.section}.html#${lastPos.idea}`);
-      nextMobileLink.innerHTML = 'poslední otevřené místo &rarr;'
+      nextMobileLink.innerHTML = 'last reading position &rarr;'
     }
 
     let h2 = document.querySelector('h2');

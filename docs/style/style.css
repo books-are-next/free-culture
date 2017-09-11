@@ -168,10 +168,10 @@ blockquote {
     display: block; }
 
 .idea {
-  padding: 4px 0; }
+  padding: 1px 0; }
 
 .idea:hover {
-  background: #eaf; }
+  background: rgba(200, 200, 200, 0.3); }
 
 .footnote-backref {
   display: none; }
