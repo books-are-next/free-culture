@@ -112,6 +112,20 @@ article {
       width: 100vw;
       margin-left: calc((-100vw + 32rem) / 2); }
 
+blockquote {
+  position: relative;
+  margin: 0.5rem;
+  padding: 0.5rem 0 0.5rem 3rem; }
+  blockquote:before {
+    position: absolute;
+    font-size: 6rem;
+    line-height: 1;
+    top: 0;
+    left: 0;
+    content: "\201C"; }
+  blockquote cite:before {
+    content: "\2013"; }
+
 .footnote-ref {
   vertical-align: baseline; }
   .footnote-ref a {
