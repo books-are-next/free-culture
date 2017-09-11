@@ -111,6 +111,12 @@ article {
       max-width: auto;
       width: 100vw;
       margin-left: calc((-100vw + 32rem) / 2); }
+  .column table {
+    border-collapse: collapse; }
+    .column table td, .column table th {
+      border: 1px solid #aaa;
+      text-align: left;
+      padding: 0.5rem; }
 
 blockquote {
   position: relative;
