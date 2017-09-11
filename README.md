@@ -42,6 +42,8 @@ Some notes on the current status of the codebase (this repo + [nb-builder] that 
     - [nb-builder] works with [JSDOM](https://github.com/tmpvar/jsdom) and lots of operations modify this way constructed DOMs. This allows some magic but brings some testing and performance issues.
     - Browser javascript is a mess: buggy, hastily and badly written. The first step is refactoring it into modules and clean it up, then work on improving the experience. Later exporting into standalone packages around the `nb-core.js` providing central API.
     - There's a lot of publishing work that needs to be done on the book itself: interlinks in the footnotes, structure and mapping in the dictionary (half of the terms are currently not mapped into the book), all of the structured bibliography.
+    - Grabbing a book „to go“ and working with it locally is an important topic. We believe in *owning* books. Are [PWAs](https://en.wikipedia.org/wiki/Progressive_web_app) a part of the right answer? Maybe…
+    - Readable browser source („View code…“) is valuable. Thus moving a lot of this functionality to browser JS (or even to browser itself) might be reasonable. However that's also unavoidably unpredictable and demanding on reader devices.
 
 - Some more specifics:
     - *Idea mapper is crude*: ES6 regexes do not support unicode, lookbehinds etc. [In future](https://stackoverflow.com/a/30119315/3270421), describing ideas via regexes instead of splitting by separators might make more sense.
