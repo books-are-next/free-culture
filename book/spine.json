@@ -1,0 +1,118 @@
+{
+  "title": "Free Culture",
+  "author": "Lawrence Lessig",
+  "subtitle": "How big media uses technology and the law to lock down culture and control creativity",
+  "published": 2004,
+  "keywords": [
+    "culture",
+    "free culture",
+    "copyright law",
+    "intellectual property",
+    "public domain",
+    "web",
+    "internet",
+    "mp3",
+    "Napster"
+  ],
+  "chapters": [
+    {
+      "chars": 6358,
+      "words": 1101,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 0,
+      "wordOffset": 0,
+      "id": 1
+    },
+    {
+      "chars": 27782,
+      "words": 4698,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 6358,
+      "wordOffset": 1101,
+      "id": 2
+    },
+    {
+      "chars": 143634,
+      "words": 24043,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 34140,
+      "wordOffset": 5799,
+      "id": 3
+    },
+    {
+      "chars": 182966,
+      "words": 30962,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 177774,
+      "wordOffset": 29842,
+      "id": 4
+    },
+    {
+      "chars": 72867,
+      "words": 12255,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 360740,
+      "wordOffset": 60804,
+      "id": 5
+    },
+    {
+      "chars": 91996,
+      "words": 15834,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 433607,
+      "wordOffset": 73059,
+      "id": 6
+    },
+    {
+      "chars": 34555,
+      "words": 5641,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 525603,
+      "wordOffset": 88893,
+      "id": 7
+    },
+    {
+      "chars": 65578,
+      "words": 11104,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 560158,
+      "wordOffset": 94534,
+      "id": 8
+    },
+    {
+      "chars": 3228,
+      "words": 535,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 625736,
+      "wordOffset": 105638,
+      "id": 9
+    },
+    {
+      "chars": 414,
+      "words": 54,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 628964,
+      "wordOffset": 106173,
+      "id": 10
+    },
+    {
+      "chars": 2153,
+      "words": 341,
+      "publicationChars": 631531,
+      "publicationWords": 106568,
+      "charOffset": 629378,
+      "wordOffset": 106227,
+      "id": 11
+    }
+  ]
+}

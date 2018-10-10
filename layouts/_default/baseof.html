@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>{{ .Title }}</title>
+    {{ $styles := resources.Get "style/style.scss" | toCSS | minify }}
+	<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+  </head>
+  <body>
+    <div class="column">
+      {{ block "content" . }}
+        This is the baseof template.
+      {{ end }}
+    </div>
+  </body>
+</html>
