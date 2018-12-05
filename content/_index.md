@@ -1,5 +1,4 @@
 ---
-stats: exclude
 title: "Lawrence Lessig: Free Culture"
 ---
 ## Index
