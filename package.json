@@ -1,0 +1,12 @@
+{
+  "name": "free-culture",
+  "version": "0.0.1",
+  "description": "Next-book edition of Lawrence Lessig's Free Culture",
+  "main": "",
+  "scripts": {
+    "build": "hugo && nb-mapper --src public --out docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lawrence Lessig",
+  "license": "CC-BY-NC-4.0"
+}

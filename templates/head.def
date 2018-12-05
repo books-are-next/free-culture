@@ -1,9 +1,0 @@
-<head>
-	<meta charset="utf-8">
-	<title>{{=it.meta.title}}</title>
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	
-	<link rel="stylesheet" type="text/css" href="./style/style.css">
-</head>
