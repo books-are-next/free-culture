@@ -1,10 +1,7 @@
 ---
 title: Puzzles
 ---
-
-<span id="c11"></span>
-
-# Chimera
+## Chimera
 
 **In a well-known** short story by H. G. Wells, a mountain climber named Nunez trips (literally, down an ice slope) into an unknown and isolated valley in the Peruvian Andes.[^154]
 The valley is extraordinarily beautiful, with “sweet water, pasture, an even climate, slopes of rich brown soil with tangles of a shrub that bore an excellent fruit.”
@@ -129,7 +126,7 @@ It will sacrifice values that are important to this culture, and will kill oppor
 
 <span id="c12"></span>
 
-# Harms
+## Harms
 
 **To fight** “piracy,” to protect “property,” the content industry has launched a war.
 Lobbying and lots of campaign contributions have now brought the government into this war.
@@ -154,7 +151,7 @@ I am quite confident the third is unintended.
 I'm less sure about the first two.
 The first two protect modern RCAs, but there is no Howard Armstrong in the wings to fight today's monopolists of culture.
 
-## Constraining Creators
+### Constraining Creators
 
 In the next ten years we will see an explosion of digital technologies.
 These technologies will enable almost anyone to capture and share content.
@@ -237,7 +234,7 @@ Even if the stuff gets made … you're not going to get it distributed in the ma
 You're not even going to get it on PBS without that kind of permission.
 That's the point at which they control it.
 
-## Constraining Innovators
+### Constraining Innovators
 
 The story of the last section was a crunchy-lefty story—creativity quashed, artists who can't speak, yada yada yada.
 Maybe that doesn't get you going.
@@ -500,7 +497,7 @@ Translation: The aim is to use the law to eliminate competition, so that this pl
 There is no one, on either the right or the left, who should endorse this use of the law.
 And yet there is practically no one, on either the right or the left, who is doing anything effective to prevent it.
 
-## Corrupting Citizens
+### Corrupting Citizens
 
 Overregulation stifles creativity.
 It smothers innovation.

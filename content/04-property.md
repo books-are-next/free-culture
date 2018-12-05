@@ -33,7 +33,7 @@ After these stories, the significance of this true statement—“copyright mate
 
 <span id="c6"></span>
 
-# Founders
+## Founders
 
 **William Shakespeare** wrote _Romeo and Juliet_ in 1595\. The play was first published in 1597\. It was the eleventh major play that Shakespeare had written.
 He would continue to write plays through 1613, and the plays that he wrote have continued to define Anglo-American culture ever since.
@@ -236,7 +236,7 @@ In a world where the Parliament is more pliant, free culture would be less prote
 
 <span id="c7"></span>
 
-# Recorders
+## Recorders
 
 **Jon Else** is a filmmaker.
 He is best known for his documentaries and has been very successful in spreading his art.
@@ -338,7 +338,7 @@ It has matured into a sword that interferes with any use, transformative or not.
 
 <span id="c8"></span>
 
-# Transformers
+## Transformers
 
 **In 1993,** Alex Alben was a lawyer working at Starwave, Inc.
 Starwave was an innovative company founded by Microsoft cofounder Paul Allen to develop digital entertainment.
@@ -510,7 +510,7 @@ Either way, the creative process is a process of paying lawyers—again a privil
 
 <span id="c9"></span>
 
-# Collectors
+## Collectors
 
 **In April 1996,** millions of “bots”—computer codes designed to “spider,” or automatically search the Internet and copy content—began running across the Net.
 Page by page, these bots copied Internet-based information onto a small set of computers located in a basement in San Francisco's Presidio.
@@ -693,7 +693,7 @@ And the law of property restricts the freedoms that Kahle and others would exerc
 
 <span id="c10"></span>
 
-# “Property”
+## “Property”
 
 **Jack Valenti** has been the president of the Motion Picture Association of America since 1966\. He first came to Washington, D.C., with Lyndon Johnson's administration—literally.
 The famous picture of Johnson's swearing-in on Air Force One after the assassination of President Kennedy has Valenti in the background.
@@ -853,7 +853,7 @@ To understand the effective protection of liberty or protection of property at a
 A restriction imposed by one modality might be erased by another.
 A freedom enabled by one modality might be displaced by another.[^121]
 
-## Why Hollywood Is Right
+### Why Hollywood Is Right
 
 The most obvious point that this model reveals is just why, or just how, Hollywood is right.
 The copyright warriors have rallied Congress and the courts to defend copyright.
@@ -957,7 +957,7 @@ Also, and generally missed, the net effect of this massive increase in protectio
 
 In a line: To kill a gnat, we are spraying DDT with consequences for free culture that will be far more devastating than that this gnat will be lost.
 
-## Beginnings
+### Beginnings
 
 America copied English copyright law.
 Actually, we copied and improved English copyright law.
@@ -1155,7 +1155,7 @@ If I wrote a book, then why should you be able to write a movie that takes my st
 These are good arguments, and, in general, my point is not that the derivative right is unjustified.
 My aim just now is much narrower: simply to make clear that this expansion is a significant change from the rights originally granted.
 
-## Law and Architecture: Reach
+### Law and Architecture: Reach
 
 Whereas originally the law regulated only publishers, the change in copyright's scope means that the law today regulates publishers, users, and authors.
 It regulates them because all three are capable of making copies, and the core of the regulation of copyright law is copies.[^133]
@@ -1292,7 +1292,7 @@ The control of copyright is simply what private owners choose.
 In some contexts, at least, that fact is harmless.
 But in some contexts it is a recipe for disaster.
 
-## Architecture and Law: Force
+### Architecture and Law: Force
 
 The disappearance of unregulated uses would be change enough, but a second important change brought about by the Internet magnifies its significance.
 This second change does not affect the reach of copyright regulation; it affects how such regulation is enforced.
@@ -1597,7 +1597,7 @@ That change too shifts the law's balance radically.
 It is as if your car transmitted the speed at which you traveled at every moment that you drove; that would be just one step before the state started issuing tickets based upon the data you transmitted.
 That is, in effect, what is happening here.
 
-## Market: Concentration
+### Market: Concentration
 
 So copyright's duration has increased dramatically—tripled in the past thirty years.
 And copyright's scope has increased as well—from regulating only publishers to now regulating just about everyone.
@@ -1768,7 +1768,7 @@ If a handful of companies control access to the media, and that handful of compa
 You might like the positions the handful of companies selects.
 But you should not like a world in which a mere few get to decide which issues the rest of us get to know about.
 
-## Together
+### Together
 
 There is something innocent and obvious about the claim of the copyright warriors that the government should “protect my property.”
 In the abstract, it is obviously true and, ordinarily, totally harmless.

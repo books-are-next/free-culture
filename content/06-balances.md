@@ -41,7 +41,7 @@ We must understand these failures if we're to understand what success will requi
 
 <span id="c13"></span>
 
-# Eldred
+## Eldred
 
 **In 1995,** a father was frustrated that his daughters didn't seem to like Hawthorne.
 No doubt there was more than one such father, but at least one did something about it. Eric Eldred, a retired computer programmer living in New Hampshire, decided to put Hawthorne on the Web.
@@ -842,7 +842,7 @@ A better lawyer would have made them see differently.
 
 <span id="c4"></span>
 
-# Eldred II
+## Eldred II
 
 **The day** _Eldred_ was decided, fate would have it that I was to travel to Washington, D.C.
 (The day the rehearing petition in _Eldred_ was denied—meaning the case was really finally over—fate would have it that I was giving a speech to technologists at Disney World.)

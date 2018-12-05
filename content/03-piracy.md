@@ -71,7 +71,7 @@ We should begin by understanding that tradition a bit more and by placing in the
 
 <span id="c1"></span>
 
-# Creators
+## Creators
 
 **In 1928,** a cartoon character was born.
 An early Mickey Mouse made his debut in May of that year, in a silent flop called _Plane Crazy_.
@@ -304,7 +304,7 @@ It is becoming much less so.
 
 <span id="c2"></span>
 
-# “Mere Copyists”
+## “Mere Copyists”
 
 **In 1839,** Louis Daguerre invented the first practical technology for producing what we would call “photographs.”
 Appropriately enough, they were called “daguerreotypes.”
@@ -722,7 +722,7 @@ But we're building the law to close down that technology.
 
 <span id="c3"></span>
 
-# Catalogs
+## Catalogs
 
 **In the fall of** 2002, Jesse Jordan of Oceanside, New York, enrolled as a freshman at Rensselaer Polytechnic Institute, in Troy, New York.
 His major at RPI was information technology.
@@ -843,13 +843,13 @@ And he wants to correct the record.”
 
 <span id="c4"></span>
 
-# “Pirates”
+## “Pirates”
 
 **If “piracy” means** using the creative property of others without their permission—if “if value, then right” is true—then the history of the content industry is a history of piracy.
 Every important sector of “big media” today—film, records, radio, and cable TV—was born of a kind of piracy so defined.
 The consistent story is how last generation's pirates join this generation's country club—until now.
 
-## Film
+### Film
 
 The film industry of Hollywood was built by fleeing pirates.[^51]
 Creators and directors migrated from the East Coast to California in the early twentieth century in part to escape controls that patents granted the inventor of filmmaking, Thomas Edison.
@@ -875,7 +875,7 @@ Of course, California grew quickly, and the effective enforcement of federal law
 But because patents grant the patent holder a truly “limited” monopoly (just seventeen years at that time), by the time enough federal marshals appeared, the patents had expired.
 A new industry had been born, in part from the piracy of Edison's creative property.
 
-## Recorded Music
+### Recorded Music
 
 The record industry was born of another kind of piracy, though to see how requires a bit of detail about the way the law regulates music.
 
@@ -939,7 +939,7 @@ They argue that the result has been an outpouring of recorded music, with the pu
 
 By limiting the rights musicians have, by partially pirating their creative work, the record producers, and the public, benefit.
 
-## Radio
+### Radio
 
 Radio was also born of piracy.
 
@@ -976,7 +976,7 @@ On average, the promotion they get is worth more than the performance rights the
 But even if so, the law ordinarily gives the creator the right to make this choice.
 By making the choice for him or her, the law gives the radio station the right to take something for nothing.
 
-## Cable TV
+### Cable TV
 
 Cable TV was also born of a kind of piracy.
 
@@ -1021,7 +1021,7 @@ Every generation—until now.
 
 <span id="c5"></span>
 
-# “Piracy”
+## “Piracy”
 
 **There is piracy** of copyrighted material.
 Lots of it. This piracy comes in many forms.
@@ -1118,7 +1118,7 @@ For (1) like the original Hollywood, p2p sharing escapes an overly controlling i
 These differences distinguish p2p sharing from true piracy.
 They should push us to find a way to protect artists while enabling this sharing to survive.
 
-## Piracy II
+### Piracy II
 
 The key to the “piracy” that the law aims to quash is a use that “rob[s] the author of [his] profit.”[^73]
 This means we must determine whether and how much p2p sharing harms before we know how strongly the law should seek to either prevent it or find an alternative to assure the author of his profit.

@@ -18,7 +18,7 @@ And thus, in the second part below, I sketch changes that Congress could make to
 
 ***
 
-# US, NOW
+## US, NOW
 
 **Common sense** is with the copyright warriors because the debate so far has been framed at the extremes—as a grand either/or: either property or anarchy, either total control or artists won't be paid.
 If that really is the choice, then the warriors should win.
@@ -44,7 +44,7 @@ The “cut and paste” world that defines the Internet today will become a “g
 What's needed is a way to say something in the middle—neither “all rights reserved” nor “no rights reserved” but “some rights reserved”—and thus a way to respect copyrights but enable creators to free content as they see fit.
 In other words, we need a way to restore a set of freedoms that we could just take for granted before.
 
-## Rebuilding Freedoms Previously
+### Rebuilding Freedoms Previously
 
 Presumed: Examples
 
@@ -153,7 +153,7 @@ This is one of many such efforts to restore a freedom taken for granted before, 
 There's no doubt that this alternative competes with the traditional publishers and their efforts to make money from the exclusive distribution of content.
 But competition in our tradition is presumptively a good—especially when it helps spread knowledge and science.
 
-## Rebuilding Free Culture: One Idea
+### Rebuilding Free Culture: One Idea
 
 The same strategy could be applied to culture, as a response to the increasing control effected through law and technology.
 
@@ -258,7 +258,7 @@ In this chapter, I outline five kinds of changes: four that are general, and one
 Each is a step, not an end.
 But any of these steps would carry us a long way to our end.
 
-## 1\. More Formalities
+### 1\. More Formalities
 
 If you buy a house, you have to record the sale in a deed.
 If you buy land upon which to build a house, you have to record the purchase in a deed.
@@ -321,7 +321,7 @@ It should approve registrars that meet its standards.
 Those registrars would then compete with one another to deliver the cheapest and simplest systems for registering and renewing copyrights.
 That competition would substantially lower the burden of this formality—while producing a database of registrations that would facilitate the licensing of content.
 
-## MARKING
+### MARKING
 
 It used to be that the failure to include a copyright notice on a creative work meant that the copyright was forfeited.
 That was a harsh punishment for failing to comply with a regulatory rule—akin to imposing the death penalty for a parking ticket in the world of creative rights.
@@ -458,7 +458,7 @@ The law could remedy this problem either by removing protection beyond the part 
 Either way, the effect would be to free a great deal of culture to others to cultivate.
 And under a statutory rights regime, that reuse would earn artists more income.
 
-## 4\. Liberate the Music—Again
+### 4\. Liberate the Music—Again
 
 The battle that got this whole war going was about music, so it wouldn't be fair to end this book without addressing the issue that is, to most people, most pressing—music.
 There is no other policy issue that better teaches the lessons of this book than the battles around the sharing of music.
@@ -631,7 +631,7 @@ But we're a long way away from whittling the problem down to this subset of type
 And our focus until we're there should not be on finding ways to break the Internet.
 Our focus until we're there should be on how to make sure the artists are paid, while protecting the space for innovation and creativity that the Internet is.
 
-## 5\. Fire Lots of Lawyers
+### 5\. Fire Lots of Lawyers
 
 I'm a lawyer.
 I make lawyers for a living.
