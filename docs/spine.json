@@ -14,105 +14,483 @@
     "mp3",
     "Napster"
   ],
-  "chapters": [
+  "slug": "lessig-free-culture-2004-2992fd",
+  "revision": "62ef67e",
+  "generatedAt": {
+    "date": "Wed Dec 05 2018 17:37:13 GMT+0100 (Central European Standard Time)",
+    "unix": 1544027833043
+  },
+  "documents": [
     {
-      "chars": 6358,
+      "title": "Preface",
+      "file": "01-preface.html",
       "words": 1101,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 0,
-      "wordOffset": 0,
-      "id": 1
+      "chars": 6358,
+      "isChapter": true,
+      "order": 1,
+      "prev": null,
+      "next": "02-introduction.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Preface",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
     },
     {
-      "chars": 27782,
+      "title": "Introduction",
+      "file": "02-introduction.html",
       "words": 4698,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 6358,
-      "wordOffset": 1101,
-      "id": 2
+      "chars": 27782,
+      "isChapter": true,
+      "order": 2,
+      "prev": "01-preface.html",
+      "next": "03-piracy.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Introduction",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
     },
     {
-      "chars": 143634,
+      "title": "“Piracy”",
+      "file": "03-piracy.html",
       "words": 24043,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 34140,
-      "wordOffset": 5799,
-      "id": 3
+      "chars": 143634,
+      "isChapter": true,
+      "order": 3,
+      "prev": "02-introduction.html",
+      "next": "04-property.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "“Piracy”",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Creators",
+              "id": "creators",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "“Mere Copyists”",
+              "id": "mere-copyists",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Catalogs",
+              "id": "catalogs",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "“Pirates”",
+              "id": "pirates",
+              "children": [
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "Film",
+                  "id": "film",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "Recorded Music",
+                  "id": "recorded-music",
+                  "children": []
+                },
+                {
+                  "index": 7,
+                  "level": 3,
+                  "name": "Radio",
+                  "id": "radio",
+                  "children": []
+                },
+                {
+                  "index": 8,
+                  "level": 3,
+                  "name": "Cable TV",
+                  "id": "cable-tv",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "“Piracy”",
+              "id": "piracy",
+              "children": [
+                {
+                  "index": 10,
+                  "level": 3,
+                  "name": "Piracy II",
+                  "id": "piracy-ii",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "chars": 182966,
+      "title": "“Property”",
+      "file": "04-property.html",
       "words": 30962,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 177774,
-      "wordOffset": 29842,
-      "id": 4
+      "chars": 182966,
+      "isChapter": true,
+      "order": 4,
+      "prev": "03-piracy.html",
+      "next": "05-puzzles.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "“Property”",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Founders",
+              "id": "founders",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Recorders",
+              "id": "recorders",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Transformers",
+              "id": "transformers",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Collectors",
+              "id": "collectors",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "“Property”",
+              "id": "property",
+              "children": [
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "Why Hollywood Is Right",
+                  "id": "why-hollywood-is-right",
+                  "children": []
+                },
+                {
+                  "index": 7,
+                  "level": 3,
+                  "name": "Beginnings",
+                  "id": "beginnings",
+                  "children": []
+                },
+                {
+                  "index": 8,
+                  "level": 3,
+                  "name": "Law and Architecture: Reach",
+                  "id": "law-and-architecture-reach",
+                  "children": []
+                },
+                {
+                  "index": 9,
+                  "level": 3,
+                  "name": "Architecture and Law: Force",
+                  "id": "architecture-and-law-force",
+                  "children": []
+                },
+                {
+                  "index": 10,
+                  "level": 3,
+                  "name": "Market: Concentration",
+                  "id": "market-concentration",
+                  "children": []
+                },
+                {
+                  "index": 11,
+                  "level": 3,
+                  "name": "Together",
+                  "id": "together",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
+      "title": "Puzzles",
+      "file": "05-puzzles.html",
+      "words": 12254,
       "chars": 72867,
-      "words": 12255,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 360740,
-      "wordOffset": 60804,
-      "id": 5
+      "isChapter": true,
+      "order": 5,
+      "prev": "04-property.html",
+      "next": "06-balances.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Puzzles",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Chimera",
+              "id": "chimera",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Harms",
+              "id": "harms",
+              "children": [
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "Constraining Creators",
+                  "id": "constraining-creators",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "Constraining Innovators",
+                  "id": "constraining-innovators",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "Corrupting Citizens",
+                  "id": "corrupting-citizens",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "chars": 91996,
+      "title": "Balances",
+      "file": "06-balances.html",
       "words": 15834,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 433607,
-      "wordOffset": 73059,
-      "id": 6
+      "chars": 91996,
+      "isChapter": true,
+      "order": 6,
+      "prev": "05-puzzles.html",
+      "next": "07-conclusion.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balances",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Eldred",
+              "id": "eldred",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Eldred II",
+              "id": "eldred-ii",
+              "children": []
+            }
+          ]
+        }
+      ]
     },
     {
-      "chars": 34555,
+      "title": "Conclusion",
+      "file": "07-conclusion.html",
       "words": 5641,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 525603,
-      "wordOffset": 88893,
-      "id": 7
+      "chars": 34555,
+      "isChapter": true,
+      "order": 7,
+      "prev": "06-balances.html",
+      "next": "08-afterword.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Conclusion",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
     },
     {
-      "chars": 65578,
+      "title": "Afterword",
+      "file": "08-afterword.html",
       "words": 11104,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 560158,
-      "wordOffset": 94534,
-      "id": 8
+      "chars": 65578,
+      "isChapter": true,
+      "order": 8,
+      "prev": "07-conclusion.html",
+      "next": "09-acknowledgments.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Afterword",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "US, NOW",
+              "id": "us-now",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Rebuilding Freedoms Previously",
+                  "id": "rebuilding-freedoms-previously",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "Rebuilding Free Culture: One Idea",
+                  "id": "rebuilding-free-culture-one-idea",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "1. More Formalities",
+                  "id": "1-more-formalities",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "MARKING",
+                  "id": "marking",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "4. Liberate the Music—Again",
+                  "id": "4-liberate-the-music-again",
+                  "children": []
+                },
+                {
+                  "index": 7,
+                  "level": 3,
+                  "name": "5. Fire Lots of Lawyers",
+                  "id": "5-fire-lots-of-lawyers",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
-      "chars": 3228,
+      "title": "Acknowledgments",
+      "file": "09-acknowledgments.html",
       "words": 535,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 625736,
-      "wordOffset": 105638,
-      "id": 9
+      "chars": 3228,
+      "isChapter": true,
+      "order": 9,
+      "prev": "08-afterword.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Acknowledgments",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
     },
     {
-      "chars": 414,
+      "title": "Lawrence Lessig: Free Culture",
+      "file": "index.html",
       "words": 54,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 628964,
-      "wordOffset": 106173,
-      "id": 10
+      "chars": 414,
+      "isChapter": false,
+      "order": 0,
+      "next": "01-preface.html",
+      "toc": []
     },
     {
-      "chars": 2153,
+      "title": "License",
+      "file": "license.html",
       "words": 341,
-      "publicationChars": 631531,
-      "publicationWords": 106568,
-      "charOffset": 629378,
-      "wordOffset": 106227,
-      "id": 11
+      "chars": 2153,
+      "isChapter": false,
+      "order": 0,
+      "next": "01-preface.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "License",
+          "id": "chunk1",
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Original imprint from printed edition",
+          "id": "original-imprint-from-printed-edition",
+          "children": []
+        }
+      ]
     }
-  ]
+  ],
+  "totals": {
+    "all": {
+      "words": 106567,
+      "chars": 631531
+    },
+    "chapters": {
+      "words": 106172,
+      "chars": 628964
+    }
+  }
 }
