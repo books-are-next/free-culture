@@ -6,5 +6,16 @@
 		"published": 2004,
 		"keywords": ["culture", "free culture", "copyright law", "intellectual property", "public domain", "web", "internet", "mp3", "Napster"]
 	},
+	"chapters": [
+		"01-preface.html",
+		"02-introduction.html",
+		"03-piracy.html",
+		"04-property.html",
+		"05-puzzles.html",
+		"06-balances.html",
+		"07-conclusion.html",
+		"08-afterword.html",
+		"09-acknowledgments.html"
+	],
 	"static": ["style", "scripts", "open-sans-fontface", "images"]
 }
