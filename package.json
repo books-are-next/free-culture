@@ -4,9 +4,16 @@
   "description": "Next-book edition of Lawrence Lessig's Free Culture",
   "main": "",
   "scripts": {
-    "build": "hugo && nb-mapper --src public --out docs",
+    "copy-assets": "copy-nb-base-assets --js assets/scripts/nb-base.js --css assets/style/nb-base.css",
+    "build": "npm run copy-assets && hugo && nb-mapper --src public --out docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lawrence Lessig",
-  "license": "CC-BY-NC-4.0"
+  "license": "CC-BY-NC-4.0",
+  "devDependencies": {
+    "nb-mapper": "^0.2.1"
+  },
+  "dependencies": {
+    "nb-base": "^0.1.0"
+  }
 }
