@@ -17,8 +17,8 @@
   "slug": "lessig-free-culture-2004-2992fd",
   "revision": "62ef67e",
   "generatedAt": {
-    "date": "Wed Dec 05 2018 17:37:13 GMT+0100 (Central European Standard Time)",
-    "unix": 1544027833043
+    "date": "Thu Dec 06 2018 20:39:48 GMT+0100 (Central European Standard Time)",
+    "unix": 1544125188522
   },
   "documents": [
     {
@@ -450,12 +450,28 @@
     {
       "title": "Lawrence Lessig: Free Culture",
       "file": "index.html",
-      "words": 54,
-      "chars": 414,
+      "words": 58,
+      "chars": 443,
       "isChapter": false,
       "order": 0,
       "next": "01-preface.html",
-      "toc": []
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lawrence Lessig: Free Culture",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Index",
+              "id": "index",
+              "children": []
+            }
+          ]
+        }
+      ]
     },
     {
       "title": "License",
@@ -485,8 +501,8 @@
   ],
   "totals": {
     "all": {
-      "words": 106567,
-      "chars": 631531
+      "words": 106571,
+      "chars": 631560
     },
     "chapters": {
       "words": 106172,
