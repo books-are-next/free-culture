@@ -1,6 +1,8 @@
 ---
 title: "Lawrence Lessig: Free Culture"
 ---
+<h1>Lawrence Lessig:<br> Free Culture</h1>
+
 ## Index
 
 - [PREFACE](01-preface.html)
