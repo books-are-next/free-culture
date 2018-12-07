@@ -44619,8 +44619,8 @@ function getPosition() {
 }
 
 function getChapter() {
-  var pos = document.querySelector('meta[name="order"]').getAttribute('content');
-  return parseInt(pos, 10);
+  var el = document.querySelector('meta[name="order"]');
+  return el ? parseInt(el.getAttribute('content'), 10) : 0;
 }
 
 function getFirstIdeaShown() {
@@ -45017,20 +45017,18 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
   }, (0, _redux.compose)(window.devToolsExtension ? window.devToolsExtension() : function (f) {
     return f;
   }));
-  store.subscribe((0, _lodash.debounce)(function () {
-    localStorage.setItem(spine.slug, JSON.stringify(store.getState()));
-  }, 500));
-  window.book = store;
   Object.keys(_views.default).forEach(function (key) {
     _reactDom.default.render(_react.default.createElement(_reactRedux.Provider, {
       store: store
     }, _react.default.createElement(_views.default[key], null)), (0, _shared.plantRoot)(key));
   });
+  store.subscribe((0, _lodash.debounce)(function () {
+    localStorage.setItem(spine.slug, JSON.stringify(store.getState()));
+  }, 500));
+  window.book = store;
 });
-console.log(_headroom.default);
 document.addEventListener('DOMContentLoaded', function () {
   var headroom = new _headroom.default(window.document.body);
-  console.log(headroom);
   headroom.init();
 });
 
