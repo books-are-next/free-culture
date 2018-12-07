@@ -1,10 +1,58 @@
 # next-book / Lawrence Lessig: Free Culture
 
+**This edition of Free Culture *runs on next-book* — a piece of software exploring the shape of a book in a digital environment (along with all those *hows*, *whys* and *whats*). Instead of replicating the paper experience, we try to move forward beyond paper, embracing the *networked digital environment*.**
+
 See the book at [next-book.github.io/free-culture/][book].
 
-## Okay, what's this? 🤔
 
-**This edition of Free Culture is built upon [next-book](nb-builder) — a piece of software exploring the shape of a book in a digital environment (along with all those *hows*, *whys* and *whats*). Instead of replicating the paper experience, we try to move forward beyond paper, embracing the networked digital environment.**
+## How does this work? 🤔
+
+Next-book consists of two main components:
+
+- [nb-mapper][] is a publishing tool
+- [nb-base][] is a browser library that provides reading affordances
+
+
+## Can I play with this?
+
+**Yes!** Grab this repo and publish another book!
+
+> This example work with `hugo`, a static site generator that compiles the basic HTML from the text files and some HTML templates. If you'd rather start with complete HTML, run hugo first and explore the `public` folder — that is the source folder for the [nb-mapper]().
+
+### 1. Insert your own content
+
+- `content` folder is where the text of the book is, stored in markdown files (you can use HTML in markdown).
+- `static/book.json` contains metadata and reading order of the chapters.
+- In `assets/` you'll find SCSS and JS files.
+- You can edit hugo templates in `layouts` folder. Don't remove the `.content` element that envelops the text.
+- Add images, fonts and other files into `static` folder (contents will be on the same level in the finalized book as the HTML files).
+
+### 2. Run the publishing program
+
+1. You'll need two programs installed: [nodeJS](https://nodejs.org/) and [hugo](https://gohugo.io/).
+2. Grab this repo and run `npm install` in the root directory.
+3. Run `npm run build` and the book will await you in the `docs` directory.
+
+That should do it! The book won't work when opened from the disk, but put it anywhere on the web (or access it via localhost) and everything should work.
+
+
+## Is this the perfect e-book? 😅
+
+Nope! Next-book tries to bring books into the open web, where progress is *possible*. At first, we need to make *the acceptable book* and then provide the *one thing that's better than other e-book* formats. Let's talk about what makes a book better.
+
+Some notes on the current state of this book:
+
+- Some affordances are boosted for exploratory purposes (such as on-hover highlighting of *ideas* that *might* be used in future for some interactions).
+- Alphabetical index is missing in this edition at this time, soon to be reintroduced when it will be available in the [nb-mapper].
+- Grabbing a book „to go“ and working with it locally is an important topic. We believe in *owning* books. Are [PWAs](https://en.wikipedia.org/wiki/Progressive_web_app) a part of the right answer? Maybe…
+- Readable browser source („View code…“) is valuable. Thus moving a lot of this functionality to browser JS (or even to browser itself) might be reasonable. However that's too power hungry on reader devices now.
+
+Read more about this in articles about [Next Book](https://jan-martinek.com/articles/the-next-book) and [what can we learn from how pagination is used in print](https://jan-martinek.com/articles/talkin-bout-pagination). (More to come.)
+
+**Feel free to discuss anything in the [Github issues here](https://github.com/next-book/free-culture/issues) or at the [nb-mapper's](https://github.com/next-book/nb-mapper/issues) and [nb-base's](https://github.com/next-book/nb-base/issues) repos.**
+
+
+## Paper into digital? 👀
 
 Republishing a book that originated in print may feel wrong in this exploratory pursuit, but it puts emphasis on continuity. Text as a medium is more than the object that contains it: it's reading experience, communication platform, the publishing process, personal and social knowledge reservoir, learning tool etc. All these aspects are interwoven. 
 
@@ -12,58 +60,7 @@ We need to work carefully while keeping our tools as sharp as it gets.
 
 *Why Lessig's Free Culture?* It's a book about a topic that touches *the digital* from another but similarly relevant and interconnected perspective. When we stop trying to map new problems on existing models, the world may start changing.
 
-**Note:** *We started in fall 2016 with a research of current solutions and short/long term goals of their maintainers and decided to find another way. We value accessibility and standardization efforts in EPUB community, but at that time there weren't many signs of opening up to the [web](http://info.cern.ch/Proposal.html). There's a lot going on now and we believe this code might be a way to express our ideas. Of course, there's a lot to be said, written and discussed. Please see all this as a contribution to a discussion.*
-
-
-## Some ideas 😮
-
-This is basic idea behind the “next-book” publication process. Some might draw an analogy to [TeX](https://en.wikipedia.org/wiki/TeX), but the focus is not on the typography (that's a browser's problem): *next-book tries to deliver a focused reading experience in networked environment*.
-
-[![a scheme of a next-book publication process](./next-book.png)](./next-book.png)
-
-Right now, the “network enrichment” is not implemented in the code at all (this is tied not only to implementation but also to licensing). A lot of the functionality is just drafted in code. There is a basic implementation of the reader's trace interaction, but none of the exchange APIs, distribution systems etc.
-
-There's a lot to think of when you leave the “normal world” — authoring tools and formats, reading experience and devices, distribution platforms, personal and public libraries etc. There's also a lot that becomes simpler, e. g. if you accept generic browser as your platform (it is currently optimized for some specific uses, but let's think how this use case may shape even the browser itself). 
-
-Read more about this in articles about [Next Book](https://jan-martinek.com/articles/the-next-book) and [what can we learn from how pagination is used in print](https://jan-martinek.com/articles/talkin-bout-pagination). (More to come.)
-
-
-## Current shape 😳
-
-Exploratory nature permeates this project: eventually, we'd like to have a production level package on our hands, but right now it's a bit mess (a welcome one).
-
-This is living result of a prototyping process and ideas go into the code, shape the output, hit the walls and evolve: the code is the spec right now and it changes dramatically. After a functionalities stabilize, specs and tests will come and major refactoring will be done, but *let's talk a lot about it first*.
-
-Some notes on the current status of the codebase (this repo + [nb-builder] that produces the [result][book]):
-
-- Generally:
-    - *The process of book building is not definite and may be broken into standalone* parts — instead of working up from Markdown and templates you may want to start with a finished HTML, or even apply some parts on the client side.
-    - Some affordances are boosted for exploratory purposes (such as on-hover highlighting of *ideas* that *might* be used in future for some interactions).
-    - [nb-builder] works with [JSDOM](https://github.com/tmpvar/jsdom) and lots of operations modify this way constructed DOMs. This allows some magic but brings some testing and performance issues.
-    - Browser javascript is a mess: buggy, hastily and badly written. The first step is refactoring it into modules and clean it up, then work on improving the experience. Later exporting into standalone packages around the `nb-core.js` providing central API.
-    - There's a lot of publishing work that needs to be done on the book itself: interlinks in the footnotes, structure and mapping in the dictionary (half of the terms are currently not mapped into the book), all of the structured bibliography.
-    - Grabbing a book „to go“ and working with it locally is an important topic. We believe in *owning* books. Are [PWAs](https://en.wikipedia.org/wiki/Progressive_web_app) a part of the right answer? Maybe…
-    - Readable browser source („View code…“) is valuable. Thus moving a lot of this functionality to browser JS (or even to browser itself) might be reasonable. However that's also unavoidably unpredictable and demanding on reader devices.
-
-- Some more specifics:
-    - *Idea mapper is crude*: ES6 regexes do not support unicode, lookbehinds etc. [In future](https://stackoverflow.com/a/30119315/3270421), describing ideas via regexes instead of splitting by separators might make more sense.
-    - Dictionary (alphabetical index with definitions) works nicely with a short dictionary that includes definitions (this was the case with the first book we made with next-book). Additionally/concurrently to auto-matching, means of manual markup need to be added.
-    - If you want to play with the book at home, you may want to shorten the dictionary, it saves a lot of building time. (I use a 2009 Macbook Pro and it takes *some time* to build.)
-
-**Feel free to discuss anything in the [Github issues here](https://github.com/next-book/free-culture/issues) or at the [nb-builder repo](https://github.com/next-book/nb-builder/issues).**
-
-
-## Who are we? 👋
-
-We're (for now) just two bookish people based in Prague in a love-hate relationship with their e-readers. [Ivana Lukeš Rybanská](https://github.com/orgs/next-book/people/IvanaRybanska) comes from the publishing world and [Jan Martinek](http://jan-martinek.com) works mostly with text editors and browsers. We both have a *social-sciencey* background.
-
-If you'd like to join our efforts in any way, just tell us. 🙂
-
-
-## Thanks! 🤘
-
-- Publishing house [Nová Beseda] allowed initial research and experimental development of the first ideas.
-- Many thanks go to [Boris Anthony](https://borisanthony.net) for continuing discussions and encouragement!
+**Note:** *We started in fall 2016 with a research of current solutions and short/long term goals of their maintainers and decided to find another way. We value accessibility and standardization efforts in EPUB community, but at that time there weren't many signs of opening up to the [web](http://info.cern.ch/Proposal.html). There's [a lot going on now](https://w3c.github.io/dpub-pwp-ucr/) and we believe this code might be a way to express our ideas. Of course, there's a lot to be said, written and discussed. Please see all this as a contribution to a discussion.*
 
 
 ## License ✍️
@@ -72,10 +69,20 @@ Lawrence Lessig released a [PDF version](http://www.free-culture.cc/freecontent)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="assets/cc.png" /></a>
 
-This HTML version is based on José Menéndez's code and is released under the updated version of the same license [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+This HTML version is based on José Menéndez's code and is released by Jan Martinek under the updated version of the same license [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
-All code that makes the book work (Javascript, HTML, CSS) may also be considered licensed under an [MIT license](http://opensource.org/licenses/MIT).
+
+## Thanks! 💖
+
+- [Ivana Lukeš Rybanská] for the initial idea and adventure.
+- Publishing house [Nová Beseda] for engaging with next-book a lot in publishing and research projects.
+- [Boris Anthony](https://borisanthony.net) for discussions and encouragement!
+
 
 [book]: https://next-book.github.io/free-culture/
-[nb-builder]: https://github.com/next-book/nb-builder
+[nb-base]: https://github.com/next-book/nb-base
+[nb-mapper]: https://github.com/next-book/nb-mapper
 [Nová beseda]:https://www.novabeseda.cz/page/english
+
+
+
