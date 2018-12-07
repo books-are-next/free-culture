@@ -15,10 +15,10 @@
     "Napster"
   ],
   "slug": "lessig-free-culture-2004-2992fd",
-  "revision": "a7b5ad1",
+  "revision": "f33e164",
   "generatedAt": {
-    "date": "Fri Dec 07 2018 14:42:54 GMT+0100 (Central European Standard Time)",
-    "unix": 1544190174933
+    "date": "Fri Dec 07 2018 18:42:19 GMT+0100 (Central European Standard Time)",
+    "unix": 1544204539914
   },
   "documents": [
     {
@@ -450,8 +450,8 @@
     {
       "title": "Lawrence Lessig: Free Culture",
       "file": "index.html",
-      "words": 58,
-      "chars": 443,
+      "words": 8,
+      "chars": 53,
       "isChapter": false,
       "order": 0,
       "next": "01-preface.html",
@@ -465,8 +465,8 @@
             {
               "index": 1,
               "level": 2,
-              "name": "Index",
-              "id": "index",
+              "name": "Table of contents",
+              "id": "table-of-contents",
               "children": []
             }
           ]
@@ -501,8 +501,8 @@
   ],
   "totals": {
     "all": {
-      "words": 106571,
-      "chars": 631560
+      "words": 106521,
+      "chars": 631170
     },
     "chapters": {
       "words": 106172,
