@@ -1,3 +1,5 @@
 public/*
 resources/*
 node_modules/*
+/assets/scripts/nb-base.js
+/assets/style/nb-base.css
