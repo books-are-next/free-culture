@@ -77,7 +77,7 @@ This HTML version is based on José Menéndez's code and is released by Jan Mart
 
 ## Thanks! 💖
 
-- [Ivana Lukeš Rybanská] for the initial idea and adventure.
+- [Ivana Lukeš Rybanská](https://twitter.com/ifcen) for the initial exploration and adventure.
 - Publishing house [Nová Beseda] for engaging with next-book a lot in publishing and research projects.
 - [Boris Anthony](https://borisanthony.net) for discussions and encouragement!
 
