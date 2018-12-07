@@ -43,7 +43,10 @@ Read more about this in articles about [Next Book](https://jan-martinek.com/arti
 
 ### 2. Run the publishing program
 
-1. You'll need two programs installed: [nodeJS](https://nodejs.org/) and [hugo](https://gohugo.io/).
+1. You'll need three programs installed
+    - [nodeJS](https://nodejs.org/),
+    - [git](https://git-scm.com), 
+    - and [hugo](https://gohugo.io/) (use the extended version).
 2. Grab this repo and run `npm install` in the root directory.
 3. Run `npm run build` and the book will await you in the `book` directory.
 
