@@ -13,7 +13,8 @@
   "author": "Lawrence Lessig",
   "license": "CC-BY-NC-4.0",
   "devDependencies": {
-    "nb-mapper": "^0.2.1",
+    "nb-mapper": "^0.2.2",
     "nb-base": "^0.1.3"
-  }
+  },
+  "dependencies": {}
 }
