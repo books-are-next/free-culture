@@ -16,9 +16,8 @@
     </div>  
 
     {{ $nbBaseJs := resources.Get "scripts/nb-base.js" }}
-		{{ $headroom := resources.Get "scripts/headroom.min.js" }}
 		{{ $scripts := resources.Get "scripts/index.js" }}
-		{{ $js := slice $nbBaseJs $headroom $scripts | resources.Concat "scripts/bundle.js" }}
+		{{ $js := slice $nbBaseJs $scripts | resources.Concat "scripts/bundle.js" }}
     <script type="text/javascript" src="{{ $js.Permalink }}"></script>  
   </body>
 </html>
