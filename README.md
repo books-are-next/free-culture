@@ -13,29 +13,6 @@ Next-book consists of two main components:
 - [nb-base][] is a browser library that provides reading affordances
 
 
-## Can I play with this?
-
-**Yes!** Grab this repo and publish another book!
-
-> This example work with `hugo`, a static site generator that compiles the basic HTML from the text files and some HTML templates. If you'd rather start with complete HTML, run hugo first and explore the `public` folder — that is the source folder for the [nb-mapper]().
-
-### 1. Insert your own content
-
-- `content` folder is where the text of the book is, stored in markdown files (you can use HTML in markdown).
-- `static/book.json` contains metadata and reading order of the chapters.
-- In `assets/` you'll find SCSS and JS files.
-- You can edit hugo templates in `layouts` folder. Don't remove the `.content` element that envelops the text.
-- Add images, fonts and other files into `static` folder (contents will be on the same level in the finalized book as the HTML files).
-
-### 2. Run the publishing program
-
-1. You'll need two programs installed: [nodeJS](https://nodejs.org/) and [hugo](https://gohugo.io/).
-2. Grab this repo and run `npm install` in the root directory.
-3. Run `npm run build` and the book will await you in the `docs` directory.
-
-That should do it! The book won't work when opened from the disk, but put it anywhere on the web (or access it via localhost) and everything should work.
-
-
 ## Is this the perfect e-book? 😅
 
 Nope! Next-book tries to bring books into the open web, where progress is *possible*. At first, we need to make *the acceptable book* and then provide the *one thing that's better than other e-book* formats. Let's talk about what makes a book better.
@@ -50,6 +27,29 @@ Some notes on the current state of this book:
 Read more about this in articles about [Next Book](https://jan-martinek.com/articles/the-next-book) and [what can we learn from how pagination is used in print](https://jan-martinek.com/articles/talkin-bout-pagination). (More to come.)
 
 **Feel free to discuss anything in the [Github issues here](https://github.com/next-book/free-culture/issues) or at the [nb-mapper's](https://github.com/next-book/nb-mapper/issues) and [nb-base's](https://github.com/next-book/nb-base/issues) repos.**
+
+
+## Can I play with this? 🧸
+
+**Yes!** Grab this repo and publish another book! Current codebase should be strong enough even for some work. 
+
+### 1. Insert your own content
+
+- `content` folder is where the text of the book is, stored in markdown files (you can use HTML in markdown).
+- `static/book.json` contains metadata and reading order of the chapters.
+- In `assets/` you'll find SCSS and JS files.
+- You can edit hugo templates in `layouts` folder. Don't remove the `.content` element that envelops the text.
+- Add images, fonts and other files into `static` folder (contents will be on the same level in the finalized book as the HTML files).
+
+### 2. Run the publishing program
+
+1. You'll need two programs installed: [nodeJS](https://nodejs.org/) and [hugo](https://gohugo.io/).
+2. Grab this repo and run `npm install` in the root directory.
+3. Run `npm run build` and the book will await you in the `book` directory.
+
+> This example works with `hugo`, a static site generator that compiles basic HTML from text files and HTML templates. If you'd rather start with HTML, run hugo first and explore the `html` folder — that is the source folder for the [nb-mapper][]. Then use `npm run build:fromhtml`.
+
+That should do it! The book won't work when opened from the disk, but put it anywhere on the web (or access it via localhost) and everything should work.
 
 
 ## Paper into digital? 👀
@@ -67,7 +67,7 @@ We need to work carefully while keeping our tools as sharp as it gets.
 
 Lawrence Lessig released a [PDF version](http://www.free-culture.cc/freecontent) of this book Free Culture under a [Creative Commons (BY-NC 1.0) license](https://creativecommons.org/licenses/by-nc/1.0/). José Menéndez produced and released its [HTML version](http://www.ibiblio.org/ebooks/Lessig/index.html) under the same license.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="assets/cc.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="static/images/cc.png" /></a>
 
 This HTML version is based on José Menéndez's code and is released by Jan Martinek under the updated version of the same license [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
