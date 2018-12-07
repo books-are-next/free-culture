@@ -5,7 +5,9 @@
   "main": "",
   "scripts": {
     "copy-assets": "copy-nb-base-assets --js assets/scripts/nb-base.js --css assets/style/nb-base.css",
-    "build": "npm run copy-assets && hugo && nb-mapper --src public --out docs",
+    "build": "npm run copy-assets && hugo -d html && nb-mapper --src html --out book",
+    "build:fromhtml": "nb-mapper --src html --out book",
+    "build:ghdocs": "npm run copy-assets && hugo -d html && nb-mapper --src html --out docs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lawrence Lessig",
