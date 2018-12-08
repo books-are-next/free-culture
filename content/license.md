@@ -6,7 +6,7 @@ title: License
 
 Lawrence Lessig released a [PDF version](http://www.free-culture.cc/freecontent) of this book Free Culture under a [Creative Commons (BY-NC 1.0) license](https://creativecommons.org/licenses/by-nc/1.0/). José Menéndez produced and released its [HTML version](http://www.ibiblio.org/ebooks/Lessig/index.html) under the same license.
 
-This HTML version is based on José Menéndez's code and is released under the updated version of the same license [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+This HTML version is based on José Menéndez's code and is released by Jan Martinek under the updated version of the same license [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ***
 
@@ -21,24 +21,29 @@ New York, New York 10014
 Copyright © Lawrence Lessig, 2004  
 All rights reserved
 
-Excerpt from an editorial titled “The Coming of Copyright Perpetuity,”  
-The New York Times, January 16, 2003. Copyright © 2003 by The New York Times Co.  
+Excerpt from an editorial titled “The Coming of Copyright Perpetuity,” The New York Times, January 16, 2003.  
+Copyright © 2003 by The New York Times Co.  
 Reprinted with permission.
 
-Cartoon by Paul Conrad on page 159. Copyright Tribune Media Services, Inc.  
-All rights reserved. Reprinted with permission.  
+Cartoon by Paul Conrad on page 159.  
+Copyright Tribune Media Services, Inc.  
+All rights reserved.  
+Reprinted with permission. 
+
 Diagram on page 164 courtesy of the office of FCC Commissioner, Michael J. Copps.
 
-Library of Congress Cataloging-in-Publication Data
+## Library of Congress Cataloging-in-Publication Data
 
 Lessig, Lawrence.  
-Free culture : how big media uses technology and the law to lock down  
-culture and control creativity / Lawrence Lessig.  
+Free culture : how big media uses technology and the law to lock down culture and control creativity / Lawrence Lessig.  
 p. cm.  
 Includes index.  
 ISBN 1-59420-006-8 (hardcover)  
-1. Intellectual property—United States. 2. Mass media—United States.  
-3. Technological innovations—United States. 4. Art—United States. I. Title.
+1. Intellectual property—United States.  
+2. Mass media—United States.  
+3. Technological innovations—United States.  
+4. Art—United States.  
+I. Title.
 
 KF2979.L47 2004  
 343.7309'9—dc22       2003063276

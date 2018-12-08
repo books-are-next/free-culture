@@ -15,10 +15,10 @@
     "Napster"
   ],
   "slug": "lessig-free-culture-2004-2992fd",
-  "revision": "f33e164",
+  "revision": "ee1b138",
   "generatedAt": {
-    "date": "Fri Dec 07 2018 18:42:19 GMT+0100 (Central European Standard Time)",
-    "unix": 1544204539914
+    "date": "Sat Dec 08 2018 10:33:29 GMT+0100 (Central European Standard Time)",
+    "unix": 1544261609228
   },
   "documents": [
     {
@@ -450,8 +450,8 @@
     {
       "title": "Lawrence Lessig: Free Culture",
       "file": "index.html",
-      "words": 8,
-      "chars": 53,
+      "words": 17,
+      "chars": 139,
       "isChapter": false,
       "order": 0,
       "next": "01-preface.html",
@@ -476,8 +476,8 @@
     {
       "title": "License",
       "file": "license.html",
-      "words": 341,
-      "chars": 2153,
+      "words": 344,
+      "chars": 2165,
       "isChapter": false,
       "order": 0,
       "next": "01-preface.html",
@@ -494,15 +494,23 @@
           "level": 1,
           "name": "Original imprint from printed edition",
           "id": "original-imprint-from-printed-edition",
-          "children": []
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Library of Congress Cataloging-in-Publication Data",
+              "id": "library-of-congress-cataloging-in-publication-data",
+              "children": []
+            }
+          ]
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 106521,
-      "chars": 631170
+      "words": 106533,
+      "chars": 631268
     },
     "chapters": {
       "words": 106172,
