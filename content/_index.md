@@ -1,5 +1,6 @@
 ---
 title: "Lawrence Lessig: Free Culture"
+class: "index"
 ---
 <h1>Lawrence Lessig:<br> Free Culture</h1>
 

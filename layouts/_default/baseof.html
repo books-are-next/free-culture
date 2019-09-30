@@ -3,6 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <link rel="icon" href="./images/touch-icons/apple-touch-icon-iphone-60x60.png" type="image/png">
+    <link rel="apple-touch-icon" href="./images/touch-icons/apple-touch-icon-iphone-60x60.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="./images/touch-icons/apple-touch-icon-ipad-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="./images/touch-icons/apple-touch-icon-iphone-retina-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="./images/touch-icons/apple-touch-icon-ipad-retina-152x152.png">
+		<meta name="apple-mobile-web-app-title" content="Free Culture">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
     <title>{{ .Title }}</title>
     
     {{ $nbBaseCss := resources.Get "style/nb-base.css" }}
@@ -10,7 +18,7 @@
 		{{ $css := slice $nbBaseCss $style | resources.Concat "style/bundle.css" }}
 		<link rel="stylesheet" href="{{ $css.Permalink }}" media="screen">
   </head>
-  <body>
+  <body {{ with .Params.class }}class="{{ . }}"{{ end }}>
     <div class="content">
       {{ block "content" . }}{{ end }}
     </div>  
@@ -18,6 +26,6 @@
     {{ $nbBaseJs := resources.Get "scripts/nb-base.js" }}
 		{{ $scripts := resources.Get "scripts/index.js" }}
 		{{ $js := slice $nbBaseJs $scripts | resources.Concat "scripts/bundle.js" }}
-    <script type="text/javascript" src="{{ $js.Permalink }}"></script>  
+    <script type="text/javascript" src="{{ $js.Permalink }}"></script>
   </body>
 </html>

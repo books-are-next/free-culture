@@ -1034,7 +1034,7 @@ That taking, too, seems wrong to many, and it is wrong much of the time.
 Before we paint this taking “piracy,” however, we should understand its nature a bit more.
 For the harm of this taking is significantly more ambiguous than outright copying, and the law should account for that ambiguity, as it has so often done in the past.
 
-****Piracy I****
+### Piracy I
 
 All across the world, but especially in Asia and Eastern Europe, there are businesses that do nothing but take others people's copyrighted content, copy it, and sell it—all without the permission of a copyright owner.
 The recording industry estimates that it loses about $4.6 billion every year to physical piracy[^70] (that works out to one in three CDs sold worldwide). The MPAA estimates that it loses $3 billion annually worldwide to piracy.

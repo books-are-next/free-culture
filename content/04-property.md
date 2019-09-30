@@ -1000,7 +1000,7 @@ We will end here:
 
 Let me explain how.
 
-****Law: Duration****
+### Law: Duration
 
 When the first Congress enacted laws to protect creative property, it faced the same uncertainty about the status of creative property that the English had confronted in 1774\. Many states had passed laws protecting creative property, and some believed that these laws simply supplemented common law rights that already protected creative authorship.[^125]
 This meant that there was no guaranteed public domain in the United States in 1790\. If copyrights were protected by the common law, then there was no simple way to know whether a work published in the United States was controlled or free.
@@ -1067,7 +1067,7 @@ That meant that the average term of copyright in 1973 was just 32.2 years.
 Because of the elimination of the renewal requirement, the average term of copyright is now the maximum term.
 In thirty years, then, the average term has tripled, from 32.2 years to 95 years.[^129]
 
-****Law: Scope****
+### Law: Scope
 
 The “scope” of a copyright is the range of rights granted by the law.
 The scope of American copyright has changed dramatically.

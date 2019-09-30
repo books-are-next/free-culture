@@ -295,7 +295,7 @@ The important formalities are three: marking copyrighted work, registering copyr
 Traditionally, the first of these three was something the copyright owner did; the second two were something the government did.
 But a revised system of formalities would banish the government from the process, except for the sole purpose of approving standards developed by others.
 
-****REGISTRATION AND RENEWAL****
+### REGISTRATION AND RENEWAL
 
 Under the old system, a copyright owner had to file a registration with the Copyright Office to register or renew a copyright.
 When filing that registration, the copyright owner paid a fee.
@@ -362,7 +362,7 @@ Indeed, it seems designed to make things unclear.
 If formalities such as registration were reinstated, one of the most difficult aspects of relying upon the public domain would be removed.
 It would be simple to identify what content is presumptively free; it would be simple to identify who controls the rights for a particular kind of content; it would be simple to assert those rights, and to renew that assertion at the appropriate time.
 
-****2. Shorter Terms****
+### 2. Shorter Terms
 
 The term of copyright has gone from fourteen years to ninety-five years for corporate authors, and life of the author plus seventy years for natural authors.
 
@@ -407,7 +407,7 @@ No doubt the extremists will call these ideas “radical.”
 But again, the term I recommended was longer than the term under Richard Nixon.
 How “radical” can it be to ask for a more generous copyright law than Richard Nixon presided over?
 
-****3. Free Use Vs. Fair Use****
+### 3. Free Use Vs. Fair Use
 
 As I observed at the beginning of this book, property law originally granted property owners the right to control their property from the ground to the heavens.
 The airplane came along.
