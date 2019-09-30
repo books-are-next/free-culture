@@ -15,10 +15,10 @@
     "Napster"
   ],
   "slug": "lessig-free-culture-2004-2992fd",
-  "revision": "177afbb",
+  "revision": "c2eea11",
   "generatedAt": {
-    "date": "Mon Dec 10 2018 20:55:53 GMT+0100 (Central European Standard Time)",
-    "unix": 1544471753245
+    "date": "Mon Sep 30 2019 17:31:40 GMT+0200 (Central European Summer Time)",
+    "unix": 1569857500348
   },
   "documents": [
     {
@@ -27,7 +27,7 @@
       "words": 1101,
       "chars": 6358,
       "isChapter": true,
-      "order": 1,
+      "order": 0,
       "prev": null,
       "next": "02-introduction.html",
       "toc": [
@@ -46,7 +46,7 @@
       "words": 4698,
       "chars": 27782,
       "isChapter": true,
-      "order": 2,
+      "order": 1,
       "prev": "01-preface.html",
       "next": "03-piracy.html",
       "toc": [
@@ -63,9 +63,9 @@
       "title": "“Piracy”",
       "file": "03-piracy.html",
       "words": 24043,
-      "chars": 143634,
+      "chars": 143632,
       "isChapter": true,
-      "order": 3,
+      "order": 2,
       "prev": "02-introduction.html",
       "next": "04-property.html",
       "toc": [
@@ -141,6 +141,13 @@
                 {
                   "index": 10,
                   "level": 3,
+                  "name": "Piracy I",
+                  "id": "piracy-i",
+                  "children": []
+                },
+                {
+                  "index": 11,
+                  "level": 3,
                   "name": "Piracy II",
                   "id": "piracy-ii",
                   "children": []
@@ -155,9 +162,9 @@
       "title": "“Property”",
       "file": "04-property.html",
       "words": 30962,
-      "chars": 182966,
+      "chars": 182962,
       "isChapter": true,
-      "order": 4,
+      "order": 3,
       "prev": "03-piracy.html",
       "next": "05-puzzles.html",
       "toc": [
@@ -218,26 +225,40 @@
                 {
                   "index": 8,
                   "level": 3,
+                  "name": "Law: Duration",
+                  "id": "law-duration",
+                  "children": []
+                },
+                {
+                  "index": 9,
+                  "level": 3,
+                  "name": "Law: Scope",
+                  "id": "law-scope",
+                  "children": []
+                },
+                {
+                  "index": 10,
+                  "level": 3,
                   "name": "Law and Architecture: Reach",
                   "id": "law-and-architecture-reach",
                   "children": []
                 },
                 {
-                  "index": 9,
+                  "index": 11,
                   "level": 3,
                   "name": "Architecture and Law: Force",
                   "id": "architecture-and-law-force",
                   "children": []
                 },
                 {
-                  "index": 10,
+                  "index": 12,
                   "level": 3,
                   "name": "Market: Concentration",
                   "id": "market-concentration",
                   "children": []
                 },
                 {
-                  "index": 11,
+                  "index": 13,
                   "level": 3,
                   "name": "Together",
                   "id": "together",
@@ -255,7 +276,7 @@
       "words": 12254,
       "chars": 72867,
       "isChapter": true,
-      "order": 5,
+      "order": 4,
       "prev": "04-property.html",
       "next": "06-balances.html",
       "toc": [
@@ -311,7 +332,7 @@
       "words": 15834,
       "chars": 91996,
       "isChapter": true,
-      "order": 6,
+      "order": 5,
       "prev": "05-puzzles.html",
       "next": "07-conclusion.html",
       "toc": [
@@ -345,7 +366,7 @@
       "words": 5641,
       "chars": 34555,
       "isChapter": true,
-      "order": 7,
+      "order": 6,
       "prev": "06-balances.html",
       "next": "08-afterword.html",
       "toc": [
@@ -362,9 +383,9 @@
       "title": "Afterword",
       "file": "08-afterword.html",
       "words": 11104,
-      "chars": 65578,
+      "chars": 65572,
       "isChapter": true,
-      "order": 8,
+      "order": 7,
       "prev": "07-conclusion.html",
       "next": "09-acknowledgments.html",
       "toc": [
@@ -404,19 +425,40 @@
                 {
                   "index": 5,
                   "level": 3,
+                  "name": "REGISTRATION AND RENEWAL",
+                  "id": "registration-and-renewal",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
                   "name": "MARKING",
                   "id": "marking",
                   "children": []
                 },
                 {
-                  "index": 6,
+                  "index": 7,
+                  "level": 3,
+                  "name": "2. Shorter Terms",
+                  "id": "2-shorter-terms",
+                  "children": []
+                },
+                {
+                  "index": 8,
+                  "level": 3,
+                  "name": "3. Free Use Vs. Fair Use",
+                  "id": "3-free-use-vs-fair-use",
+                  "children": []
+                },
+                {
+                  "index": 9,
                   "level": 3,
                   "name": "4. Liberate the Music—Again",
                   "id": "4-liberate-the-music-again",
                   "children": []
                 },
                 {
-                  "index": 7,
+                  "index": 10,
                   "level": 3,
                   "name": "5. Fire Lots of Lawyers",
                   "id": "5-fire-lots-of-lawyers",
@@ -434,7 +476,7 @@
       "words": 535,
       "chars": 3228,
       "isChapter": true,
-      "order": 9,
+      "order": 8,
       "prev": "08-afterword.html",
       "next": null,
       "toc": [
@@ -453,7 +495,7 @@
       "words": 17,
       "chars": 139,
       "isChapter": false,
-      "order": 0,
+      "order": null,
       "next": "01-preface.html",
       "toc": [
         {
@@ -479,7 +521,7 @@
       "words": 344,
       "chars": 2165,
       "isChapter": false,
-      "order": 0,
+      "order": null,
       "next": "01-preface.html",
       "toc": [
         {
@@ -510,11 +552,11 @@
   "totals": {
     "all": {
       "words": 106533,
-      "chars": 631268
+      "chars": 631256
     },
     "chapters": {
       "words": 106172,
-      "chars": 628964
+      "chars": 628952
     }
   }
 }
