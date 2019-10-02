@@ -1813,6 +1813,7 @@ In the course of this chapter, I have distinguished between copying a work and t
 
 In 1790, the law looked like this:
 
+<div class="table-wrapper">
 <table summary="Copyright law in 1790.">
     <tbody>
         <tr>
@@ -1832,6 +1833,7 @@ In 1790, the law looked like this:
         </tr>
     </tbody>
 </table>
+</div>
 
 The act of publishing a map, chart, and book was regulated by copyright law.
 Nothing else was.
@@ -1840,6 +1842,7 @@ And as copyright attached only with registration, and only those who intended to
 
 By the end of the nineteenth century, the law had changed to this:
 
+<div class="table-wrapper">
 <table summary="Copyright law in 1790.">
     <tbody>
         <tr>
@@ -1859,6 +1862,7 @@ By the end of the nineteenth century, the law had changed to this:
         </tr>
     </tbody>
 </table>
+</div>
 
 Derivative works were now regulated by copyright law—if published, which again, given the economics of publishing at the time, means if offered commercially.
 But noncommercial publishing and transformation were still essentially free.
@@ -1867,6 +1871,7 @@ In 1909 the law changed to regulate copies, not publishing, and after this chang
 As the technology of copying became more prevalent, the reach of the law expanded.
 Thus by 1975, as photocopying machines became more common, we could say the law began to look like this:
 
+<div class="table-wrapper">
 <table summary="Copyright law in 1790.">
     <tbody>
         <tr>
@@ -1886,10 +1891,12 @@ Thus by 1975, as photocopying machines became more common, we could say the law 
         </tr>
     </tbody>
 </table>
+</div>
 
 The law was interpreted to reach noncommercial copying through, say, copy machines, but still much of copying outside of the commercial market remained free.
 But the consequence of the emergence of digital technologies, especially in the context of a digital network, means that the law now looks like this:
 
+<div class="table-wrapper">
 <table summary="Copyright law in 1790.">
     <tbody>
         <tr>
@@ -1909,6 +1916,7 @@ But the consequence of the emergence of digital technologies, especially in the 
         </tr>
     </tbody>
 </table>
+</div>
 
 
 Every realm is governed by copyright law, whereas before most creativity was not.

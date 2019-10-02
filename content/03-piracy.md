@@ -1349,13 +1349,40 @@ Congress was convinced that American film got enough, this “taking” notwiths
 
 If we put these cases together, a pattern is clear:
 
-
-| Case | Whose value was “pirated” | Response of the courts | Response of Congress |
-| ----------- | ------------------ | ------------- | ----------------- |  
-| Recordings  | Composers          | No protection | Statutory License |                  
-| Radio       | Recording Artists  | N/A           | Nothing           |   
-| Cable TV    | Broadcasters       | No protection | Statutory License |                     
-| VCR         | Film Creators      | No protection | Nothing           |
+<div class="table-wrapper">
+    <table>
+        <tr>
+            <th>Case</th>
+            <th>Whose value was “pirated”</th>
+            <th>Response of the courts</th>
+            <th>Response of Congress</th>
+        </tr>
+        <tr>
+            <th>Recordings</th>
+            <td>Composers</td>
+            <td>No protection</td>
+            <td>Statutory License</td>
+        </tr>
+        <tr>
+            <th>Radio</th>
+            <td>Recording Artists</td>
+            <td>N/A</td>
+            <td>Nothing</td>
+        </tr>
+        <tr>
+            <th>Cable TV</th>
+            <td>Broadcasters</td>
+            <td>No protection</td>
+            <td>Statutory License</td>
+        </tr>
+        <tr>
+            <th>VCR</th>
+            <td>Film Creators</td>
+            <td>No protection</td>
+            <td>Nothing</td>
+        </tr>
+    </table>
+</div>
 
 Response of courts and Congress to new content distribution technologies.
 

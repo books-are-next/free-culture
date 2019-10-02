@@ -51,6 +51,33 @@ body {
 	}
 }
 
+.footnote-ref {
+	vertical-align: top;
+	background: #ddd;
+	padding: 0.2rem 0.5rem;
+	border-radius: 0.5rem;
+	display: inline-block;
+	line-height: 1;
+
+	a {
+		font-weight: bold;
+		color: #aaa;
+		text-decoration: none;
+	}
+
+	&:hover {
+		background: #aaa;
+
+		a {
+			color: white;
+		}
+	}
+}
+
+.table-wrapper {
+	overflow-x: auto;
+}
+
 .content {
 	max-width: 32rem;
 	margin: 0 auto;
@@ -102,18 +129,42 @@ body {
 }
 
 @media screen and (max-width: 699px) {
+	html,
+	body {
+		font-size: 18px;
+	}
+
 	p,
 	li {
 		font-size: 18px;
 	}
 
-	.content img {
-		width: unquote('calc(100% + 2rem)');
-		margin-left: -1rem;
-		margin-right: -1rem;
+	th,
+	td {
+		font-size: 16px;
+		padding: 0.2rem;
+	}
+
+	.content {
+		blockquote {
+			padding-left: 0.5rem;
+
+			&:before {
+				font-size: 4rem;
+				left: -1rem;
+			}
+		}
+
+		img {
+			width: unquote('calc(100% + 2rem)');
+			margin-left: -1rem;
+			margin-right: -1rem;
+		}
 	}
 
 	.hero {
+		position: relative;
+
 		h1 {
 			font-size: 40px;
 		}
@@ -125,10 +176,6 @@ body {
 
 	h2 {
 		font-size: 28px;
-	}
-
-	.hero {
-		position: relative;
 	}
 }
 
